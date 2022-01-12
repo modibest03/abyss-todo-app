@@ -22,4 +22,4 @@ The `utils` folder consist of api files for the app and may even consist of help
 
 # Click below link to view the live app
 
-[http://tekal-ai.surge.sh/]
+[https://abyss-todo.vercel.app/]
